@@ -1,8 +1,6 @@
 # Multiview Detection with Cardboard Human Modeling
 Code and data for paper:
-
 **Multiview Detection with Cardboard Human Modeling**
-
 [Jiahao Ma*](https://github.com/Jiahao-Ma), [Zicheng Duan*](https://github.com/ZichengDuan), [Liang Zheng](https://zheng-lab.cecs.anu.edu.au/), [Chuong Nguyen](https://people.csiro.au/N/C/Chuong-Nguyen)
 
 [Paper and Appendices]
